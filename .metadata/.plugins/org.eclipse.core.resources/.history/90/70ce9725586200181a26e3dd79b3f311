@@ -19,7 +19,7 @@ public class Sample_1 {
    System.out.println("Google Loaded");
 	  driver.findElement(By.xpath("//input[@id='lst-ib']")).sendKeys("VSTS",Keys.ENTER);
 	   Thread.sleep(5000);
-
+	  driver.findElement(By.xpath("//input[@value='Google Search']")).click();
    	  System.out.println(driver.getTitle());
    }
 }
