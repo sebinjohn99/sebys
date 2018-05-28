@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.microsoft.tfs.client.common.ui.dialogs.connect.ServerListDialog">
+		<item value="1" key="VIEWS"/>
+		<item value="117" key="DIALOG_ORIGIN_Y"/>
+		<item value="423" key="DIALOG_ORIGIN_X"/>
+		<item value="754" key="DIALOG_WIDTH"/>
+		<item value="05/25/18 17:58:15" key="SINCE"/>
+		<item value="5842" key="ACCUMULATED_OPEN_TIME"/>
+		<item value="362" key="DIALOG_HEIGHT"/>
+		<item value="1" key="TIME_COUNTS"/>
+	</section>
+	<section name="wizard-EclipseTeamProjectWizard">
+	</section>
+</section>
